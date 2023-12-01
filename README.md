@@ -55,7 +55,7 @@ The results of the analysis returns:
 - Scores by School Type
 
 
-## Results Summary
+## Results
 
 - Total budget spend for all the schools is at $24,649,428.
 - Math score across the district on average is 79, and Reading Average score is slightly higher - 82.
