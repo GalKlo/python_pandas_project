@@ -1,7 +1,9 @@
 # School Performance analysis
 
 ## Description
-Project presents a comprehensive examination of academic performance across 15 schools in a district, involving 39,170 students. Through a detailed analysis, it showcases key metrics such as average scores, passing rates, and overall performance, enabling insights into the factors influencing educational outcomes. The project covers diverse aspects, including school types, budget allocations, grade-wise performance, and the impact of school size. Utilizing Python Pandas, the analysis provides a valuable resource for stakeholders in the education sector to make informed decisions for enhancing educational strategies and resource allocation.
+Project presents a comprehensive examination of academic performance across 15 schools in a district, involving 39,170 students. 
+Through a detailed analysis, it showcases key metrics such as average scores, passing rates, and overall performance, enabling insights into the factors influencing educational outcomes. The project covers diverse aspects, including school types, budget allocations, grade-wise performance, and the impact of school size. 
+Utilizing Python Pandas, the analysis provides a valuable resource for stakeholders in the education sector to make informed decisions for enhancing educational strategies and resource allocation.
 
 ## Technologies Used
 Python (Pandas)
@@ -9,7 +11,7 @@ Python (Pandas)
 ## File Structure
 ### PyCitySchools
 - 'analysis.ipynb': Jupyter Notebook with python script that uncovers trends in data. 
-- ### Resources
+### Resources
     - 'schools_complete.csv' - CSV file with schools related information, including School name, type, size, budget.  
     - 'students_complete.csv' - CSV file with every student's information, including school, grade as well as math and reading scores.
 
