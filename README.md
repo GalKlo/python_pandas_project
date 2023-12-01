@@ -2,7 +2,9 @@
 
 ## Description
 Project presents a comprehensive examination of academic performance across 15 schools in a district, involving 39,170 students. 
+
 Through a detailed analysis, it showcases key metrics such as average scores, passing rates, and overall performance, enabling insights into the factors influencing educational outcomes. The project covers diverse aspects, including school types, budget allocations, grade-wise performance, and the impact of school size. 
+
 Utilizing Python Pandas, the analysis provides a valuable resource for stakeholders in the education sector to make informed decisions for enhancing educational strategies and resource allocation.
 
 ## Technologies Used
@@ -15,7 +17,7 @@ Python (Pandas)
     - 'schools_complete.csv' - CSV file with schools related information, including School name, type, size, budget.  
     - 'students_complete.csv' - CSV file with every student's information, including school, grade as well as math and reading scores.
 
-## Data processing steps
+## Data Analysis Overview
 
 Data from the input files is aggregated and manipulated with the use of Pandas DataFrames to showcase obvious trends in school performance.
 
@@ -52,7 +54,8 @@ The results of the analysis returns:
 - Scores by School Size
 - Scores by School Type
 
-## Results summary
+
+## Results Summary
 
 - Total budget spend for all the schools is at $24,649,428.
 - Math score across the district on average is 79, and Reading Average score is slightly higher - 82.
@@ -60,7 +63,6 @@ The results of the analysis returns:
 	- About 75% of all students get 70 or higher in Math exam.
 	- 87% pass Reading exam with the mark 70 or higher.
 	- 65% of all students pass Math and Reading achieveing 70 in both Math and Reading.
-
 ### Summary by School:
 - Top 3 **Highest-Performing Schools** - based on the Overall Passing persentage - are of **Charter** type with Overall Passing percentage higher than 90.59%:
 	- Cabrera High School (No of students - 1858, budget per student - $582);	
@@ -73,7 +75,6 @@ The results of the analysis returns:
 	- Huang High School (No of students - 2917, budget per student - $655);
 
 - Math and Reading Scores by Grade are on par within the same school across 4 different grades - from 9th to 12th. 
-
 ### Summary by School Size and Budget Size:
 - Higher-Performing schools are typically smaller sized than the Bottom-Performing schools. Schools with number of students under 2000 people show better students' performance than schools with over 2000 students;
 
