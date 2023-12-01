@@ -9,10 +9,9 @@ Python (Pandas)
 ## File Structure
 ### PyCitySchools
 - 'analysis.ipynb': Jupyter Notebook with python script that uncovers trends in data. 
-
-## Resources
-- 'schools_complete.csv' - CSV file with schools related information, including School name, type, size, budget.  
-- 'students_complete.csv' - CSV file with every student's information, including school, grade as well as math and reading scores.
+- ### Resources
+    - 'schools_complete.csv' - CSV file with schools related information, including School name, type, size, budget.  
+    - 'students_complete.csv' - CSV file with every student's information, including school, grade as well as math and reading scores.
 
 ## Data processing steps
 
